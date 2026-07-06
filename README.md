@@ -27,8 +27,9 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 - **Design:** Figma
 - **Others:** Docker, Linux
 
+---
 - 💬 Ask me about **any technology you find here**
-
+---
 - 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [edwin-olivo-garcia](https://www.linkedin.com/in/edwin-olivo-garcia/) my username!
 <!--Intro end-->
 
@@ -67,13 +68,9 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
   </a>
 </p>
 
-<br>
-
 <div align="center">
   <h3>🌐 Backend Frameworks</h3>
 </div>
-
-<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -81,13 +78,9 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
   </a>
 </p>
 
-<br>
-
 <div align="center">
   <h3>📱 Mobile Development</h3>
 </div>
-
-<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -95,13 +88,9 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
   </a>
 </p>
 
-<br>
-
 <div align="center">
   <h3>💾 Data Base</h3>
 </div>
-
-<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -109,13 +98,9 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
   </a>
 </p>
 
-<br>
-
 <div align="center">
   <h3>☁️ Cloud Services and Git</h3>
 </div>
-
-<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -123,33 +108,9 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
   </a>
 </p>
 
-<br>
-
-<div align="center">
-  <h3>🤖 Ai Tools</h3>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🎮 Game Development</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity&perline=14&theme=dark" />
-  </a>
-</p>
-
-<br>
-
 <div align="center">
   <h3>📦 Packet Managers, OS and Containers</h3>
 </div>
-
-<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -157,13 +118,9 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
   </a>
 </p>
 
-<br>
-
 <div align="center">
   <h3>🖌️ Design Tools</h3>
 </div>
-
-<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -171,20 +128,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
   </a>
 </p>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> 📫 Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/edwin-olivo-garcia/" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-</a>
-</p>
+---
 
 <div id="user-content-toc">
   <ul align="center">
@@ -195,8 +139,6 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 
 <p align="center">
 <a href="https://github.com/edwin-olivo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucast1574&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edwin-olivo&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=edwin-olivo&theme=radical"/>
 </a>
 </p>
-
